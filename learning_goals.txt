@@ -1,0 +1,3 @@
+[My first learning goal is to understand git hub version control.]
+[My second learning goal is to understand git hub command like push ,pull.]
+[My third learning goal is understand the enviroment setup nodejs.]
